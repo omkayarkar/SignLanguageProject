@@ -1,6 +1,4 @@
-﻿# @'
-
-# \# Indian Sign Language Alphabet Recognition
+﻿# \# Indian Sign Language Alphabet Recognition
 
 # 
 
@@ -71,4 +69,6 @@
 # ├── README.md
 
 # └── .gitignore
+
+# ```
 
