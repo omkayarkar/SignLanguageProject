@@ -72,3 +72,11 @@
 
 # ```
 
+
+## Alphabet Hand-Sign Reference
+
+The following chart provides a visual reference for alphabet hand signs.
+
+![Alphabet hand-sign chart](docs/gestures/handsigns.jpg)
+
+> Note: Verify the source of this chart before presenting it as an official Indian Sign Language (ISL) reference. Alphabet signs can differ between sign languages.
